@@ -1,7 +1,7 @@
 # 👋 Hi!!
 
 Desenvolvedor Front-end, formado em Análise e Desenvolvimento de Sistemas, sempre disposto a procurar novos conhecimentos e compartilhar informações relevantes.</br></br>
-Atualmente  impactando o aprendizado de mais de 100 mil colaboradores da Vivo, através de objetos educacionais de fácil aprendizado.
+Atualmente  impactando o aprendizado de mais de 100 mil colaboradores da Vivo, através de objetos educacionais de fácil aprendizado desenvolvidos através da GP-Strategies.
 
 # 🚀 Expertise
 
