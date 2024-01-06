@@ -1,16 +1,12 @@
 # 👋 Hi!!
 
-I'm André, a passionate software developer and tech enthusiast.</br>
-I currently work as a mid-level Software Frontend Developer at GP-Strategies. </br>
-
-With more than 1 year of experience in the field, I had the opportunity to work on</br>
-several exciting projects to Vivo, one of the largest telecommunications companies in Latin America.</br></br>
-I intend to learn the entire front end stack, specializing in Javascript/React and its entire ecosystem.</br>
+Desenvolvedor Front-end, formado em Análise e Desenvolvimento de Sistemas, sempre disposto a procurar novos conhecimentos e compartilhar informações relevantes.</br></br>
+Atualmente  impactando o aprendizado de mais de 100 mil colaboradores da Vivo, através de objetos educacionais de fácil aprendizado.
 
 # 🚀 Expertise
 
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have knowledge of HTML, CSS, JavaScript, and I'm proficient in popular framework React.
-I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+Trabalho principalmente com desenvolvimento frontend, focando em criar sites interativos e fáceis de usar. Tenho conhecimento em HTML, CSS, JavaScript e sou experiente em React.</br></br>
+Gosto de usar minha criatividade e habilidades de resolução de problemas para criar experiências de usuário incríveis.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
