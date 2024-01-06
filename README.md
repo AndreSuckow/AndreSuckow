@@ -2,16 +2,14 @@
 
 I'm André, a passionate software developer and tech enthusiast.</br>
 I currently work as a mid-level Software Frontend Developer at GP-Strategies. </br>
+
 With more than 1 year of experience in the field, I had the opportunity to work on</br>
 several exciting projects to Vivo, one of the largest telecommunications companies in Latin America.</br></br>
-
-I intend to learn the entire front end stack, specializing in react and vue and its entire ecosystem.</br>
-At some point in my journey, I hope to move to the backend and become a full-stack developer.
-My desire is to understand the development as a whole, both Server Side and Client Side. My curiosity and desire to learn always motivates me! 🚀🚀🚀
+I intend to learn the entire front end stack, specializing in Javascript/React and its entire ecosystem.</br>
 
 # 🚀 Expertise
 
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have knowledge of HTML, CSS, JavaScript, and I'm proficient in popular framework
+My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have knowledge of HTML, CSS, JavaScript, and I'm proficient in popular framework React.
 I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
 # 💻 Tech Stack:
